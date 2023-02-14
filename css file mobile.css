@@ -138,9 +138,12 @@ body{
     top: 1.3rem;
     right: 0.5rem;
   }
+    .close{
+        width: fit-content;
+    }
     .close .img{
     height: 1.5rem;
     width: 2rem;
-    margin-left: 15rem;
+    margin-left: 5rem;
   }
 }
