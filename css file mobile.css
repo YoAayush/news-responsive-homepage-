@@ -55,7 +55,6 @@ body{
   .img img{
     height: 11rem;
     width: 20.5rem;
-    position: absolute;
   }
   span{
     display: block;
