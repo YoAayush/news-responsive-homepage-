@@ -141,9 +141,6 @@ body{
     .close .img{
     height: 1.5rem;
     width: 2rem;
-    margin-left: 8rem;
-  }
-    .close{
-    align-items: end;
+    margin-left: 15rem;
   }
 }
