@@ -138,10 +138,7 @@ body{
     top: 1.3rem;
     right: 0.5rem;
   }
-    #menu .img{
-    position: absolute;
-    top: 1.5;
-    right: 0.5rem;
+    .close .img{
     height: 1.5rem;
     width: 2rem;
   }
