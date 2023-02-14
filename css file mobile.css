@@ -51,10 +51,11 @@ body{
    .img{
     margin-left: 0.5rem;
     height: fit-content;
+    width: fit-content;
   }
   .img img{
     height: 11rem;
-    width: 20.5rem;
+    width: 22rem;
   }
   span{
     display: block;
