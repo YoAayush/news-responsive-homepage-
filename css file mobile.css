@@ -1,0 +1,138 @@
+@media screen and (max-width: 375px){
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+    #tata{
+    height: 80rem;
+    width: 22rem;
+    margin: 0rem;
+    z-index: 1;
+  }
+    header{
+    /* justify-content: space-between; */
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    margin-left: 0rem;
+    height: fit-content;
+    margin-top: 0.5rem;
+  }
+  /* ul{
+    list-style: none;
+    display: flex ;
+    margin-left: 0rem;
+  }
+  ul li{
+    font-size: 11px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 0.5rem;
+  }
+  ul li a:hover{
+    color: rgb(236, 89, 89);
+  } */
+  ul{
+    display: none;
+  }
+  .left{
+    display: flex;
+    margin-left: 0.5rem;
+  }
+  .right{
+    width: 2rem;
+    margin: 0rem 0rem 0rem 1.6rem;
+  }
+  ol{
+    list-style:none;
+    display: flex;
+    margin: 0rem 0rem 0rem 12rem;
+  }
+   .img{
+    margin-left: 0.5rem;
+    height: fit-content;
+  }
+  .img img{
+    height: 11rem;
+    width: 20.5rem;
+  }
+  span{
+    display: block;
+    margin: 0rem;
+  }
+  .xyz{
+    display: block;
+    padding: 0%;
+  }
+  .p1{
+    width: fit-content;
+  }
+ .p1 p{
+    margin-left: 0.5rem;
+    font-size: 38px;
+    color: black; 
+    /* margin-right: 10rem; */
+  }
+  .p2{
+    width: fit-content;
+  }
+  .p2 .para{
+    font-size: 16.5px;
+    margin: 0.5rem 0.5rem 0rem 0.5rem;
+  }
+  #button{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 8px 29px;
+    height: 3.5rem;
+    background-color: crimson;
+    border-color: crimson;
+    color: rgb(252, 250, 250);
+  }
+  .new{
+    background-color: rgb(6, 6, 36);
+    height: 24rem;
+    width: 20rem;
+    margin-top: 3rem;
+    margin-left: 0.5rem;
+  }
+  .rfid{
+    display: block;
+    margin: 1rem 0rem 0rem 0.5rem;
+    height: 8rem;
+    width: fit-content;
+  }
+  .gh{
+    margin-top: 1rem;
+  }
+
+  /* hamburger menu */
+  #menu{
+    background-color: #fdfbfb;
+    height: 46rem;
+    width: 13rem;
+    display: none;
+    margin: 0.5rem 0rem 0rem 0rem;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  #menu ul{
+    display: block;
+    text-align:left;
+  }
+  #menu ul li{
+    margin: 2rem 0rem 0rem 0rem;
+
+  }
+  #menu ul li a:hover{
+    color: #ec5959;
+  }
+  #tom{
+    display: flex;
+    margin-left: 12rem;
+  }
+}
