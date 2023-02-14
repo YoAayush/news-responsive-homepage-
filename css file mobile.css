@@ -6,7 +6,7 @@ body{
 
     #tata{
     height: 80rem;
-    width: 22rem;
+    width: fit-content;
     margin: 0rem;
     z-index: 1;
   }
