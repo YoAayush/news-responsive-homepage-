@@ -133,6 +133,8 @@ body{
   }
   #tom{
     display: flex;
-    margin-left: 14rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 0rem;
   }
 }
