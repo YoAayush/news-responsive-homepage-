@@ -134,7 +134,7 @@ body{
   #tom{
     display: flex;
     position: absolute;
-    top: 0.5rem;
+    top: 1rem;
     right: 0rem;
   }
 }
