@@ -142,5 +142,7 @@ body{
     position: absolute;
     top: 1.5;
     right: 0.5rem;
+    height: 1.5rem;
+    width: 2rem;
   }
 }
